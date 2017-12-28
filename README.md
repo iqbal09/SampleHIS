@@ -8,26 +8,26 @@ Sample of Hospital Information System
 # Application Features
 ### Front Officer
 
-CRUD patient data
-CRUD patient data outpatient
-CRUD data of inpatients
-Rates of inpatient, outpatient based on service
+1. CRUD patient data
+1. CRUD patient data outpatient
+1. CRUD data of inpatients
+1. Rates of inpatient, outpatient based on service
 
 ### Department
 
-Displays outpatient data based on departments
-Outpatient data search by department
-Choosing a medical examiner
-Displays the check status
-Displays doctors data
+1. Displays outpatient data based on departments
+1. Outpatient data search by department
+1. Choosing a medical examiner
+1. Displays the check status
+1. Displays doctors data
 
 ### Doctor
 
-Displays patient data
-search patient data
-filling patient diagnostic data
-CRUD recipes
-Print recipes
+1. Displays patient data
+1. search patient data
+1. filling patient diagnostic data
+1. CRUD recipes
+1. Print recipes
 
 
 #### Made with &#9829;
