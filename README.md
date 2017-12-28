@@ -5,6 +5,30 @@ Sample of Hospital Information System
   <img src="screenshot/ss.png" height="500" alt="" />
 </p>
 
+# Application Features
+### Front Officer
+
+CRUD patient data
+CRUD patient data outpatient
+CRUD data of inpatients
+Rates of inpatient, outpatient based on service
+
+### Department
+
+Displays outpatient data based on departments
+Outpatient data search by department
+Choosing a medical examiner
+Displays the check status
+Displays doctors data
+
+### Doctor
+
+Displays patient data
+search patient data
+filling patient diagnostic data
+CRUD recipes
+Print recipes
+
 
 #### Made with &#9829;
 Follow me on instagram :)
