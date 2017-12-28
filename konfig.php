@@ -1,14 +1,8 @@
 <?php
 /*
 |--------------------------------------------------------------------------
-| Konfigurasi Database
+| Configure Your Database Here
 |--------------------------------------------------------------------------
-|
-|   Aplikasi Sistem Informasi Rumah Sakit Sederhana
-|   by Dendi Abdul Rohim 
-|   dendicious@gmail.com
-|   dendicous.com
-|
 */
 
 	$server = "localhost";
@@ -24,5 +18,7 @@
 	}else{
 		echo ":(";
 	}
+
+
 	 
 ?>
