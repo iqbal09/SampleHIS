@@ -1,6 +1,9 @@
 # SampleHIS
 Sample of Hospital Information System 
 
+http://hospital.codedojo.asia
+
+
 <p align="center">
   <img src="screenshot/ss.png" height="500" alt="" />
 </p>
